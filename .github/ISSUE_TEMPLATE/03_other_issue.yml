@@ -7,7 +7,7 @@ body:
       label: Answers checklist.
       description: Before submitting a new issue, please follow the checklist and try to find the answer.
       options:
-        - label: I have read the documentation [README](https://github.com/Backbone-Labs/lodestone#readme) and the issue is not addressed there.
+        - label: I have read the documentation and the issue is not addressed there.
         - label: I have searched the issue tracker for a similar issue and not found a similar issue.
           required: true
   - type: textarea
