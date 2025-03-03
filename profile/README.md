@@ -11,5 +11,6 @@ Feel free to take a look around our repositories. We've got:
 
 Feel free to join our Discord and chat with us or ask questions!
 
-<img src="https://discord.com/api/guilds/1345508990716743741/widget.png?style=banner2" alt="Discord Banner 2"/>
+[<img src="https://discord.com/api/guilds/1345508990716743741/widget.png?style=banner2" alt="Discord Banner 2"/>](https://discord.com/channels/1345508990716743741)
+
 
